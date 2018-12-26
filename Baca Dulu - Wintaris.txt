@@ -7,4 +7,4 @@ Developer : Wildan Fuady - https://www.wildanfuady.com
 Link Artikel Original:
 https://www.saungnulis.tk/2018/12/download-aplikasi-inventaris-barang.html
 Source Code:
-
+https://github.com/wildanfuady/wintaris
